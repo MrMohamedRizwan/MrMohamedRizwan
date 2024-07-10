@@ -45,7 +45,7 @@ a
 
 <br>- <a href="https://chat-app-q5tc.onrender.com">Chit Chat:</a> Chat Application<br>- <a href="https://lambdabackend.onrender.com">Lambda:</a> E-Commerce Website<br>-<a href="https://tic-tac-toe-xi-mauve.vercel.app">Game: </a>Tic Tac Toe</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-rizwan-291632255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-rizwan-291632255/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/mrrizwan2207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mrrizwan2207" height="30" width="40" /></a>
