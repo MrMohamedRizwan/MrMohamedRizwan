@@ -43,7 +43,7 @@ a
 </div>
 <h3 align="left">🚀 Checkout my Projects </h3>
 
-<br>- <a href="https://chat-app-q5tc.onrender.com">Chit Chat:</a> Chat Application<br>- <a href="https://lambdabackend.onrender.com">Lambda:</a> E-Commerce Website<br>-<a href="https://tic-tac-toe-xi-mauve.vercel.app">Game</a>Tic Tac Toe</p>
+<br>- <a href="https://chat-app-q5tc.onrender.com">Chit Chat:</a> Chat Application<br>- <a href="https://lambdabackend.onrender.com">Lambda:</a> E-Commerce Website<br>-<a href="https://tic-tac-toe-xi-mauve.vercel.app">Game: </a>Tic Tac Toe</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
