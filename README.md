@@ -1,19 +1,15 @@
+a
 
 ###
 
-
 ###
-
 
 ###
 
 <h1 align="center">Hi 👋, I'm Mohamed Rizwan S</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-
 ###
-
-
 
 ###
 
@@ -21,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Rizwan S <br><br>- 🔭 I’m currently pursuing my Bachelors degree in Engineering<br>- 👨‍💻 I'm currently developing myself in the field of fullstack<br>- ⚡ Programming enthusiast upskilling myself with new technologies<br>-📚 What do I believe? Jack of all, Master of some.</p>
+<p align="left">I'm Mohamed Rizwan S <br><br>- 🔭 I’m currently pursuing my Bachelors degree in Engineering<br>- ⚡ Programming enthusiast upskilling myself with new technologies<br>-📚 What do I believe? Jack of all, Master of some.<br>-Checkout My <span><a href="https://mohamedrizwan.vercel.app">Portfiolio</a></span></p>
 
 ###
 
@@ -45,6 +41,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrMohamedRizwan&theme=dark&hide_border=false)
 
 </div>
+<h3 align="left">🚀 Checkout my Projects </h3>
+
+<br>- <a href="https://chat-app-q5tc.onrender.com">Chit Chat:</a> Chat Application<br>- <a href="https://lambdabackend.onrender.com">Lambda:</a> E-Commerce Website<br>-<a href="https://tic-tac-toe-xi-mauve.vercel.app">Game</a>Tic Tac Toe</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-rizwan-291632255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-rizwan-291632255/" height="30" width="40" /></a>
