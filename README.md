@@ -36,7 +36,7 @@
 
  <div align="center">
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Mohamed_Rizwan_22_?ext=heatmap)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/Mohamed_Rizwan_22_?ext=heatmap)-->
 
 </div>
 <h3 align="left">🚀 Checkout my Projects </h3>
